@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544568202519",
+    "project_id": "bestaway-task",
+    "storage_bucket": "bestaway-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544568202519:android:3739570768ddfc855b5352",
+        "android_client_info": {
+          "package_name": "com.example.bestaway_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544568202519-4errkihlnpqikqg8nkiiifhd4u6v1sjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWzUh-dXbNPSGuPdV8QFOICaSM8RfHu0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544568202519-4errkihlnpqikqg8nkiiifhd4u6v1sjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
